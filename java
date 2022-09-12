@@ -31,7 +31,7 @@ text-decoration: none;
 </head>
 <body>
 <center>
-<h2><a href="index.html">Home</a> <a href="Merch - STE GROUP.html">Merch</a> <a href="MC Addons - STE GROUP.html">MineCraft</a> <a href="Conatct - STE GROUP.html">Contact</a></h2>
+<h2><a href="index.html">Home</a> <a href="merch">Merch</a> <a href="minecraft">MineCraft</a> <a href="contact">Contact</a></h2>
 <h1 style="color: white" class="w3-animate-zoom"><b>Minecraft Java Edition</b></h1>
 <h3 style="color: lightgrey" class="w3-animate-zoom">We Put Minecraft Mods, Maps and more!</h3>
 <meta name="viewport" content="width=device-width, initial-scale=1">
